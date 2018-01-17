@@ -1,6 +1,6 @@
 var index = require("./index.js")
 
-if (index.name === "Susan") {
+if (index.nahttps://learn.co/tracks/accelerated-prep/week-2/programming-js-in-the-ide/practicing-conditional-statements#me === "Susan") {
     console.log("The name is correct")
 } else {
     console.log("Expected: Susan, Received: "+index.name)
